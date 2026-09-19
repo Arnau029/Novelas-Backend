@@ -1,4 +1,4 @@
-# E-commerce Full Stack - Novelas (Frontend)
+# E-commerce Full Stack - Novelas (Backend)
 
 ## Technologies
 
